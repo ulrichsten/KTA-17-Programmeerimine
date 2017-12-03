@@ -1,0 +1,17 @@
+/Users/stenulrich/Desktop/C# proov/blackJack/blackJack/blackJack/bin/Debug/blackJack.exe
+/Users/stenulrich/Desktop/C# proov/blackJack/blackJack/blackJack/bin/Debug/blackJack.pdb
+/Users/stenulrich/Desktop/C# proov/blackJack/blackJack/blackJack/obj/x86/Debug/blackJack.csproj.CoreCompileInputs.cache
+/Users/stenulrich/Desktop/C# proov/blackJack/blackJack/blackJack/obj/x86/Debug/blackJack.exe
+/Users/stenulrich/Desktop/C# proov/blackJack/blackJack/blackJack/obj/x86/Debug/blackJack.pdb
+C:\Users\stenu\Dropbox\jagamiseks\sten kool\1blackJack_copyversioon\blackJack\blackJack\bin\Debug\blackJack.exe
+C:\Users\stenu\Dropbox\jagamiseks\sten kool\1blackJack_copyversioon\blackJack\blackJack\bin\Debug\blackJack.pdb
+C:\Users\stenu\Dropbox\jagamiseks\sten kool\1blackJack_copyversioon\blackJack\blackJack\obj\x86\Debug\blackJack.csprojResolveAssemblyReference.cache
+C:\Users\stenu\Dropbox\jagamiseks\sten kool\1blackJack_copyversioon\blackJack\blackJack\obj\x86\Debug\blackJack.csproj.CoreCompileInputs.cache
+C:\Users\stenu\Dropbox\jagamiseks\sten kool\1blackJack_copyversioon\blackJack\blackJack\obj\x86\Debug\blackJack.exe
+C:\Users\stenu\Dropbox\jagamiseks\sten kool\1blackJack_copyversioon\blackJack\blackJack\obj\x86\Debug\blackJack.pdb
+C:\Users\stenu\OneDrive\Desktop\src\home_tasks\blackJack\blackJack\bin\Debug\blackJack.exe
+C:\Users\stenu\OneDrive\Desktop\src\home_tasks\blackJack\blackJack\bin\Debug\blackJack.pdb
+C:\Users\stenu\OneDrive\Desktop\src\home_tasks\blackJack\blackJack\obj\x86\Debug\blackJack.csprojResolveAssemblyReference.cache
+C:\Users\stenu\OneDrive\Desktop\src\home_tasks\blackJack\blackJack\obj\x86\Debug\blackJack.csproj.CoreCompileInputs.cache
+C:\Users\stenu\OneDrive\Desktop\src\home_tasks\blackJack\blackJack\obj\x86\Debug\blackJack.exe
+C:\Users\stenu\OneDrive\Desktop\src\home_tasks\blackJack\blackJack\obj\x86\Debug\blackJack.pdb
