@@ -63,6 +63,8 @@ namespace blackJack
             Console.WriteLine("\nUus mäng\n");
             Console.WriteLine("Your total score is: " + userScore + " , House score ise " + dealerScore);
 
+            
+
             //Console.Clear();
 
             while (true)
@@ -71,7 +73,7 @@ namespace blackJack
                 {
                     Console.WriteLine("You have won!");
                     userScore++;
-                    Console.WriteLine("Dealer score: " + dealerScore + " vs Your score: " + userScore);
+                    Console.WriteLine("House score: " + dealerScore + " vs Your score: " + userScore);
 
                     break;
                 }
@@ -96,7 +98,7 @@ namespace blackJack
                     {
                         Console.WriteLine("House has won");
                         dealerScore++;
-                        Console.WriteLine("Dealer score: " + dealerScore + " vs Your score: " + userScore);
+                        Console.WriteLine("House score: " + dealerScore + " vs Your score: " + userScore);
                         break;
                     }
                     break;
@@ -128,27 +130,27 @@ namespace blackJack
                 {
                     Console.WriteLine("House wins");
                     dealerScore++;
-                    Console.WriteLine("Dealer score: " + dealerScore + " vs Your score: " + userScore);
+                    Console.WriteLine("House score: " + dealerScore + " vs Your score: " + userScore);
 
                 }
                 else if (dealerCardValue > 21 && dealerCardValue < userCardValue && userCardValue < 21)
                 {
                     Console.WriteLine("House loses");
                     userScore++;
-                    Console.WriteLine("Dealer score: " + dealerScore + " vs Your score: " + userScore);
+                    Console.WriteLine("House score: " + dealerScore + " vs Your score: " + userScore);
 
                 }
                 else if (dealerCardValue == 21)
                 {
                     Console.WriteLine("House wins");
                     dealerScore++;
-                    Console.WriteLine("Dealer score: " + dealerScore + " vs Your score: " + userScore);
+                    Console.WriteLine("House score: " + dealerScore + " vs Your score: " + userScore);
 
                 }
 
             }
             Console.WriteLine("House had: " + dealerCardValue.ToString());
-            Console.WriteLine("Dealer score: " + dealerScore + " vs Your score: " + userScore);
+            Console.WriteLine("House score: " + dealerScore + " vs Your score: " + userScore);
         }
     }
 }
